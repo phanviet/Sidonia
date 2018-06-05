@@ -82,9 +82,9 @@ highlight! link Visual              PmenuSel
 highlight! link WildMenu            PmenuSel
 highlight! link ModeMsg             PmenuSel
 highlight! link PmenuThumb          PmenuSbar
-highlight! link CursorLineNr        StatusLine             
+highlight! link CursorLineNr        StatusLine
 highlight! link StatusLineNC        SpecialComment
-highlight! link Pmenu               StatusLineNC
+highlight! link Pmenu               StatusLine
 highlight! link TabLine             LineNr
 highlight! link TabLineFill         LineNr
 highlight! link Folded              LineNr
